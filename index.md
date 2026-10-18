@@ -26,6 +26,8 @@ MS Word, EXCEL, Power Point, accounting software SUN, MYOB, 1C, SAP
 
 Проект: Анализ операционной эффективности службы поддержки и факторов риска CSAT/SLA
 
+Проект: Выявление ключевых драйверов выручки и прибыли, анализ влияния скидок на рентабельность и оптимизации ценообразования на основе данных розничного рынка.
+
 Инструменты: Python (Pandas, Scikit-learn, LightGBM, SHAP, Matplotlib, Seaborn), Power BI. AI-assisted development (сборка и отладка кода с использованием ИИ).
 
 Выполненные задачи:
